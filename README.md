@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Gabriel Barbosa Gomes
 
-- 🔭 Hoje eu trabalho como Analista Smart Fi, implantando equipamentos da cisco meraki.
+- 🔭 Hoje eu trabalho como Analista Smart Fi, implantando equipamentos da cisco meraki, e em busca da primeira oportunidade de atuar na área da programação!
 - 🌱 Estou estudando no momento ReactJS.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 😄 Pronomes: Ele/Dele
