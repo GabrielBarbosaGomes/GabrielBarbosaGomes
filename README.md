@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho como Analista Smart Fi, implantando equipamentos da cisco meraki, e em busca da primeira oportunidade de atuar na área da programação!
 - 🌱 Estou estudando no momento ReactJS.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
-- 💼 Acesse meu portfólio: https://portifolio-gabriel-gabrielbarbosagomes.vercel.app/
+- 💼 Acesse meu portfólio: https://portfolio2-0-gabrielbarbosagomes.vercel.app/
 <div align="center">
   <a href="https://github.com/GabrielBarbosaGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaGomes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
