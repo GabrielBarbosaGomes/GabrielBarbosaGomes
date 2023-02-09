@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Gabriel Barbosa Gomes
 
-- 🔭 Hoje eu trabalho como Analista Smart Fi, implantando equipamentos da cisco meraki, e em busca da primeira oportunidade de atuar na área da programação!
-- 🌱 Estou estudando no momento ReactJS.
+- 🔭 Sou desenvolvedor Frontend, atualmente estou trabalhando com Angular e React
+- 🌱 Estou estudando no momento Redux e testes.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 💼 Acesse meu portfólio: https://portfolio2-0-gabrielbarbosagomes.vercel.app/
 <div align="center">
