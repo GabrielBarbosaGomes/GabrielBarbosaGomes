@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Gabriel Barbosa Gomes
+## Oi! Eu sou o Gabriel Barbosa Gomes
 
 - 🔭 Sou desenvolvedor Frontend, atualmente estou trabalhando com Angular e React
 - 🌱 Estou estudando no momento Redux e testes.
