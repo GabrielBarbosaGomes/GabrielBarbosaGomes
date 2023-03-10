@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Gabriel Barbosa Gomes
 
-- 🔭 Sou desenvolvedor Frontend, atualmente estou trabalhando com Angular e React
+- 🔭 Sou desenvolvedor Front-end, atualmente estou trabalhando com Angular e React
 - 🌱 Estou estudando no momento Redux e testes.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 💼 Acesse meu portfólio: https://portfolio2-0-gabrielbarbosagomes.vercel.app/
