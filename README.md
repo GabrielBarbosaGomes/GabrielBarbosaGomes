@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Gabriel Barbosa Gomes
 
-- 🔭 Sou desenvolvedor Front-end, atualmente estou trabalhando com Angular e React
-- 🌱 Estou estudando no momento Redux e testes.
+- 🔭 Sou desenvolvedor FullStack, atualmente estou trabalhando com React, Vue, e Laravel no front-end, e no back estou atuando com php, MySql e Docker.
+- 🌱 Estou estudando no momento o roadmaps de backend, e aplicando na prática com PHP onde eu trabalho.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 💼 Acesse meu portfólio: https://portfolio2-0-gabrielbarbosagomes.vercel.app/
 <div align="center">
