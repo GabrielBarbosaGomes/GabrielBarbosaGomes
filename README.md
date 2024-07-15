@@ -3,7 +3,7 @@
 - 🔭 Olá, tenho 25 anos e atuo com desenvolvimento de software a 2 anos, atualmente sou fullstack ultilizando as linguagens C#, java script e type script.
 - 🌱 Estou estudando no momento o roadmaps de backend.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
-- 💼 Acesse meu portfólio: https://portfolio2-0-gabrielbarbosagomes.vercel.app/
+- 💼 Acesse meu portfólio: https://gabrielbarbosagomesportfolio.vercel.app/
 <div align="center">
   <a href="https://github.com/GabrielBarbosaGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaGomes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
