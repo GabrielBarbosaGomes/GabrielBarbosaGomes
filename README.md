@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Gabriel Barbosa Gomes
 
-- 🔭 Sou desenvolvedor FullStack, atualmente estou trabalhando com React, Vue, e Laravel no front-end, e no back estou atuando com php, MySql e Docker.
-- 🌱 Estou estudando no momento o roadmaps de backend, e aplicando na prática com PHP onde eu trabalho.
+- 🔭 Olá, tenho 25 anos e atuo com desenvolvimento de software a 2 anos, atualmente sou fullstack ultilizando as linguagens C#, java script e type script.
+- 🌱 Estou estudando no momento o roadmaps de backend.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 💼 Acesse meu portfólio: https://portfolio2-0-gabrielbarbosagomes.vercel.app/
 <div align="center">
