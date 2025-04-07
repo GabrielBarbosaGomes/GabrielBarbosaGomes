@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Gabriel Barbosa Gomes
 
-- 🔭 Olá, tenho 25 anos e atuo com desenvolvimento de software a 2 anos, atualmente sou fullstack ultilizando as linguagens C#, java script e type script.
+- 🔭 Olá, tenho 26 anos e atuo com desenvolvimento de software um pouco mais que 3 anos, atualmente sou fullstack ultilizando as linguagens C#, java script e type script.
 - 🌱 Estou estudando no momento o roadmaps de backend.
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 💼 Acesse meu portfólio: https://gabrielbarbosagomesportfolio.vercel.app/
