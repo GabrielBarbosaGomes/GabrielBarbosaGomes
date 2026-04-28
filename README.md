@@ -1,7 +1,7 @@
-## Oi! Eu sou o Gabriel Barbosa Gomes
+## Olá! Seja Bem Vindo!!!!
 
-- 🔭 Olá, tenho 26 anos e atuo com desenvolvimento de software um pouco mais que 3 anos, atualmente sou fullstack ultilizando as linguagens C#, java script e type script.
-- 🌱 Estou estudando no momento o roadmaps de backend.
+- 🔭 tenho 27 anos, experência com Sistema de administração Ecommerce tanto na ponta 1p e 3p e ecommerce, catalogo e sistema de administração do catalogo, atuando como fullstack e atualmente como unico front-end à frente do projeto de administração dos sellers para casas bahia
+- 🌱 Atualmente venho me atualizando com o mercado e o uso de i.a's e como funciona, entendendo mais a fundo sobre as raizes da programação e sistemas, em paralelo estou cursando sistemas para web
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 💼 Acesse meu portfólio: https://gabrielbarbosagomesportfolio.vercel.app/
 
@@ -19,6 +19,9 @@
 <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Biel-github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+<img align="center" alt="Biel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Biel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+
 </div>
 
 ---
