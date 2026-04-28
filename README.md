@@ -1,6 +1,6 @@
 ## Olá! Seja Bem Vindo!!!!
 
-- 🔭 tenho 27 anos, experência com Sistema de administração Ecommerce tanto na ponta 1p e 3p e ecommerce, catalogo e sistema de administração do catalogo, atuando como fullstack e atualmente como unico front-end à frente do projeto de administração dos sellers para casas bahia
+- 🔭 tenho 27 anos, experência com Ecommerce, Sistema de administração para sellers Ecommerce tanto na ponta 1p e 3p, Catalogo e Sistema de administração do catalogo, atuando como fullstack e atualmente como unico front-end à frente do projeto de administração dos sellers para casas bahia em conjunto com mais 5 desenvolvedores back-end
 - 🌱 Atualmente venho me atualizando com o mercado e o uso de i.a's e como funciona, entendendo mais a fundo sobre as raizes da programação e sistemas, em paralelo estou cursando sistemas para web
 - 📫 Contate-me no email: gabryel122crf@gmail.com
 - 💼 Acesse meu portfólio: https://gabrielbarbosagomesportfolio.vercel.app/
